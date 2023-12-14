@@ -1,5 +1,4 @@
-{
-	"species":
+	{"species":
 	{"name": "Banshee", "cost": 40, "st": 9, "iq": 10, "ht": 11, "dx": 12},
 	{"name": "Dwarf", "cost": 20, "st": 11, "iq": 10, "ht": 11, "dx": 10},
 	{"name": "Elf-Kin", "cost": 20, "st": 10, "iq": 10, "ht": 10, "dx": 11},
@@ -20,5 +19,5 @@
 	{"name": "Wolf", "cost": 60, "st": 10, "iq": 10, "ht": 12, "dx": 12},
 	{"name": "Wolfman", "cost": 90, "st": 13, "iq": 10, "ht": 12, "dx": 12},
 	{"name": "Zombie", "cost": 30, "st": 14, "iq": 10, "ht": 11, "dx": 9}
-	
 }
+	
